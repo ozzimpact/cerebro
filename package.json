@@ -13,7 +13,7 @@
   "author": "ziyasal <sarikayaziya@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^3.2.2",
     "lodash": "^4.5.0",
     "nconf": "^0.8.4",
     "node-uuid": "^1.4.7",
